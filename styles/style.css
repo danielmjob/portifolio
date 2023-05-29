@@ -141,4 +141,13 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__imagem{
+        width: 70%;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 1.75rem;
+        font-family: var(--font-primaria);
+    }
 }
